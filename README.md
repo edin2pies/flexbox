@@ -1,1 +1,1 @@
-# flexbox
+A small homepage website I created to practice flexbox usage and to create cleaner layouts for front-end visuals.
